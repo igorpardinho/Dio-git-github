@@ -1,5 +1,5 @@
 # Desafio da DIO git/github
-criação de um repositório
+Criação de um repositório
 
 ## Links úteis
 [Sintaxe Markdown](https://markdown.net.br/sintaxe-basica/)
